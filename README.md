@@ -12,5 +12,6 @@ NIM : 312210125 <br>
 [Modul Program Input Mahasiswa](https://drive.google.com/file/d/1S0aobsYLn38e-3G62k_hMwoyAKEqb0B0/view?usp=sharing)
 
 ### 3. Untuk Penjelasan dari Video link youtube berikut.
+[Video UAS MVC Bahasa Pemrograman](https://youtu.be/NODOWT1zCqY)
 
 ### *Mungkin itu saja yang bisa saya berikan, Terima Kasih. 
